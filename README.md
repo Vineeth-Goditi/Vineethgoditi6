@@ -123,15 +123,7 @@
 
 🌱 I’m currently learning deeper optimisation techniques for autonomous AI agents, GraphRAG systems, and enterprise AI governance.
 
-💬 Ask me about:
-- Generative AI
-- LangChain
-- RAG Pipelines
-- Vector Databases
-- FastAPI
-- Cloud Architecture
-- MLOps
-- Scalable AI Systems
+💬 Ask me about Generative AI, LangChain, RAG pipelines, Vector Databases, FastAPI, Cloud Architecture, MLOps, and scalable AI systems.
 
 ⚡ Fun fact:  
 I love turning complex enterprise problems into intelligent AI systems — and I’m equally passionate about gaming, storytelling, and futuristic tech experiences.
