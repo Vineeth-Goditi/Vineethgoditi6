@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00F7FF,20:007CF0,40:7928CA,60:FF0080,80:FF4D4D,100:00F7FF&height=320&section=header&text=VINEETH%20GODITI&fontSize=65&fontColor=ffffff&animation=blinking&fontAlignY=48&desc=⚡%20GENAI%20ENGINEER%20•%20AI%2FML%20ENGINEER%20•%20FUTURE%20ARCHITECT%20⚡&descAlignY=68&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00F7FF,20:007CF0,40:7928CA,60:FF0080,80:FF4D4D,100:00F7FF&height=320&section=header&text=VINEETH%20GODITI&fontSize=65&fontColor=ffffff&animation=blinking&fontAlignY=48&descAlignY=68&descSize=18"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=34&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=180&lines=⚡+GENERATIVE+AI+ENGINEER+⚡;⚡+BUILDING+INTELLIGENT+SYSTEMS+⚡;⚡+LLMs+%7C+RAG+%7C+AGENTIC+AI+⚡;⚡+CLOUD+NATIVE+AI+ARCHITECT+⚡" />
 
@@ -93,17 +93,13 @@
 <img src="https://img.shields.io/badge/📧%20CONNECT%20WITH%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/Vineeth_Goditi">
+<a href="https://www.linkedin.com/in/vineeth-goditi/">
 <img src="https://img.shields.io/badge/💼%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Vineeth-Goditi">
 <img src="https://img.shields.io/badge/💻%20GITHUB-121212?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Vineeth-Goditi&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -119,10 +115,6 @@
 
 ---
 
-
-
----
-
 # 💫 About Me
 
 💼 I’m currently working on building enterprise-grade GenAI applications using RAG, Agentic AI workflows, and scalable cloud-native architectures on AWS & Azure.
@@ -131,7 +123,7 @@
 
 🧠 I’m looking for help with advanced multi-agent orchestration, LLM fine-tuning strategies, and scalable AI evaluation frameworks.
 
-🌱 I’m currently learning deeper optimization techniques for autonomous AI agents, GraphRAG systems, and enterprise AI governance.
+🌱 I’m currently learning deeper optimisation techniques for autonomous AI agents, GraphRAG systems, and enterprise AI governance.
 
 💬 Ask me about:
 - Generative AI
